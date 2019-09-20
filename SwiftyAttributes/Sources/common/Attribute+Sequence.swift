@@ -9,6 +9,7 @@
 /**
  An extension on dictionaries that allows us to convert a Foundation-based dictionary of attributes to an array of `Attribute`s.
  */
+import Foundation
 
 extension Dictionary where Key == NSAttributedString.Key {
 
