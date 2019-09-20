@@ -14,9 +14,9 @@ let package = Package(
             name: "SwiftyAttributesiOStvOS",
             targets: ["SwiftyAttributesiOStvOS"]
         ),
-        
+
         .library(
-            name: "SwiftyAttributeswatchOS",
+            name: "SwiftyAttributesCommon",
             targets: ["SwiftyAttributesCommon"]
         ),
 
