@@ -6,6 +6,7 @@
 //  Copyright © 2016 Eddie Kaiger. All rights reserved.
 //
 
+import Foundation
 #if os(macOS)
 import AppKit
 

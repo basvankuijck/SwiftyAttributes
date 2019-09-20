@@ -6,6 +6,7 @@
 //  Copyright © 2019 Roman Podymov. All rights reserved.
 //
 
+import Foundation
 #if os(macOS)
 import AppKit
 
